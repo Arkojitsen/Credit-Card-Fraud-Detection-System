@@ -92,13 +92,13 @@ These results indicate strong generalization performance on unseen data.
 
 # *🛠️ Technologies & Libraries Used*
 
-Python
+- Python
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Scikit-learn
+- Scikit-learn
 
 # *🚀 Key Learnings*
 
